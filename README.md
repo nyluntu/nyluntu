@@ -1,16 +1,31 @@
-### Hi there 👋
+ <p align="center">
+  <br>
+  <br>
+  <samp>Welcome stranger! 👋
+    <br><br>I'm <strong>Turo</strong>, software developer and entrepreneur with years of experience.</samp>
+</p>
 
-<!--
-**nyluntu/nyluntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <samp>I love to read software related books that focus on software design and agile management. Here is a few good suggestions to get started.</samp>
+</p> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul style="list-style: none;" align="center"> 
+ <li style=""><samp>- <a href="https://www.oreilly.com/library/view/the-clean-coder/9780132542913/">The Clean Coder</a></samp></li> 
+ <li style=""><samp>- <a href="https://www.oreilly.com/library/view/clean-code/9780136083238/">The Clean Code</a></samp></li> 
+ <li style=""><samp>- <a href="https://www.oreilly.com/library/view/agile-principles-patterns/0131857258/">Agile Principles, Patterns, and Practices in C#</a></samp></li> 
+ <li style=""><samp>- <a href="https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/">Implementing Domain-Driven Design</a></samp></li> 
+</ul>
+
+------------
+
+<h3 align="center"> 💬 Don't hesitate to ask more about coding... </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/nylundturo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/TuroNylund"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCa2jrsJNI6Lhzx4u3rPLfJQ"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+</p> 
+
+
