@@ -10,15 +10,17 @@
 </p> 
 
 
-<ul style="list-style: none;" align="center"> 
- <li style=""><samp>- <a href="https://www.oreilly.com/library/view/the-clean-coder/9780132542913/">The Clean Coder</a></samp></li> 
- <li style=""><samp>- <a href="https://www.oreilly.com/library/view/clean-code/9780136083238/">The Clean Code</a></samp></li> 
- <li style=""><samp>- <a href="https://www.oreilly.com/library/view/agile-principles-patterns/0131857258/">Agile Principles, Patterns, and Practices in C#</a></samp></li> 
- <li style=""><samp>- <a href="https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/">Implementing Domain-Driven Design</a></samp></li> 
-</ul>
+<p align="center"> 
+  <samp>- <a href="https://www.oreilly.com/library/view/the-clean-coder/9780132542913/">The Clean Coder</a></samp> <br>
+ <samp>- <a href="https://www.oreilly.com/library/view/clean-code/9780136083238/">The Clean Code</a></samp>  <br>
+ <samp>- <a href="https://www.oreilly.com/library/view/agile-principles-patterns/0131857258/">Agile Principles, Patterns, and Practices in C#</a></samp> <br>
+ <samp>- <a href="https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/">Implementing Domain-Driven Design</a></samp><br> 
+</p>
+<br> 
 
 ------------
 
+<br> 
 <h3 align="center"> 💬 Don't hesitate to ask more about coding... </h3>
 <br />
 <p align="center">
